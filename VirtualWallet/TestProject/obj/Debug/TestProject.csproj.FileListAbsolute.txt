@@ -1,0 +1,12 @@
+C:\programmation\c#\VirtualWallet\TestProject\bin\Debug\TestProject.exe.config
+C:\programmation\c#\VirtualWallet\TestProject\bin\Debug\TestProject.exe
+C:\programmation\c#\VirtualWallet\TestProject\bin\Debug\TestProject.pdb
+C:\programmation\c#\VirtualWallet\TestProject\obj\Debug\TestProject.exe
+C:\programmation\c#\VirtualWallet\TestProject\obj\Debug\TestProject.pdb
+C:\programmation\c#\VirtualWallet\TestProject\obj\Debug\TestProject.csprojResolveAssemblyReference.cache
+C:\programmation\c#\VirtualWallet\TestProject\bin\Debug\Newtonsoft.Json.dll
+C:\programmation\c#\VirtualWallet\TestProject\bin\Debug\Newtonsoft.Json.xml
+C:\programmation\c#\VirtualWallet\TestProject\bin\Debug\EntityFramework.dll
+C:\programmation\c#\VirtualWallet\TestProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\programmation\c#\VirtualWallet\TestProject\bin\Debug\EntityFramework.xml
+C:\programmation\c#\VirtualWallet\TestProject\bin\Debug\EntityFramework.SqlServer.xml

@@ -1,0 +1,3 @@
+C:\programmation\c#\VirtualWallet\TestProject\bin\Debug\TestProject.exe.config
+C:\programmation\c#\VirtualWallet\TestProject\obj\Debug\TestProject.exe
+C:\programmation\c#\VirtualWallet\TestProject\obj\Debug\TestProject.pdb
